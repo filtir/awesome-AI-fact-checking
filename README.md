@@ -4,6 +4,7 @@ A curated list of research related to fact-checking, particularly fact-checking 
 
 ## Papers 
 
+- [AlignScore: Evaluating Factual Consistency with a Unified Alignment Function](https://arxiv.org/abs/2305.16739) by [Yuheng Zha](@yzha_zha) et al. (26 May 2023)
 - [FACTSCORE: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251) by [Sewon Min](https://twitter.com/sewon__min) et al. (23 May 2023)
 - [How Language Model Hallucinations Can Snowball](https://arxiv.org/abs/2305.13534) by [Zhang Muru](https://twitter.com/zhang_muru) et al. (22 May 2023)
 - [LM vs LM: Detecting Factual Errors via Cross Examination](https://arxiv.org/abs/2305.13281) by [Roi Cohen](https://twitter.com/roicohen9) et al. (22 May 2023)
@@ -14,3 +15,9 @@ A curated list of research related to fact-checking, particularly fact-checking 
 ## Notes
 
 - PRs are welcome
+
+## Discord
+
+If you're interested in discussing fact-checking & hallucinations, we have a [Discord server](https://discord.gg/D9JVE8aR8j):  
+
+[![](https://dcbadge.vercel.app/api/server/D9JVE8aR8j)](https://discord.gg/D9JVE8aR8j)

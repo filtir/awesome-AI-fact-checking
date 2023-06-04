@@ -4,6 +4,7 @@ A curated list of research related to fact-checking, particularly fact-checking 
 
 ## Papers 
 
+- [AmbiFC: Fact-checking ambiguous claims with evidence](https://arxiv.org/abs/2104.00640v2) by M. Glockner et al. (31 May 2023)
 - [AlignScore: Evaluating Factual Consistency with a Unified Alignment Function](https://arxiv.org/abs/2305.16739) by [Yuheng Zha](@yzha_zha) et al. (26 May 2023)
 - [FACTSCORE: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251) by [Sewon Min](https://twitter.com/sewon__min) et al. (23 May 2023)
 - [How Language Model Hallucinations Can Snowball](https://arxiv.org/abs/2305.13534) by [Zhang Muru](https://twitter.com/zhang_muru) et al. (22 May 2023)

@@ -4,6 +4,7 @@ A curated list of research related to fact-checking, particularly fact-checking 
 
 ## Papers 
 
+- [Inference-Time Intervention: Eliciting Truthful Answers from a Language Model](https://arxiv.org/abs/2306.03341) by K. Li et al. (6 June 2023)
 - [AmbiFC: Fact-checking ambiguous claims with evidence](https://arxiv.org/abs/2104.00640) by M. Glockner et al. (31 May 2023)
 - [Do Language Models Know When They're Hallucinating References?](https://arxiv.org/abs/2305.18248) by A. Agrawal (29 May 2023)
 - [AlignScore: Evaluating Factual Consistency with a Unified Alignment Function](https://arxiv.org/abs/2305.16739) by [Yuheng Zha](@yzha_zha) et al. (26 May 2023)
